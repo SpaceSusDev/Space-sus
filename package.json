@@ -1,0 +1,14 @@
+
+{
+  "name": "space-sus",
+  "version": "1.0.0",
+  "description": "Servidor multiplayer do SPACE SUS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}
